@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Google/Search SEO -->
+  <meta name="description" content="TSS Shadow - Team Shadow Squad. Free Fire Esports Team.">
+  <meta name="keywords" content="TSS Shadow, Team Shadow Squad, Free Fire Esports">
+  <meta name="author" content="TSS Shadow">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TSS Shadow | Team Shadow Squad</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #080808;
+      color: white;
+    }
+
+    header {
+      padding: 20px;
+      text-align: center;
+      background: #111;
+      border-bottom: 1px solid #333;
+    }
+
+    header h1 {
+      font-size: 34px;
+      letter-spacing: 2px;
+    }
+
+    header p {
+      margin-top: 8px;
+      color: #aaa;
+    }
+
+    .hero {
+      min-height: 75vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 30px;
+    }
+
+    .hero h2 {
+      font-size: 50px;
+      margin-bottom: 15px;
+    }
+
+    .hero h3 {
+      font-size: 25px;
+      color: #bbb;
+      margin-bottom: 15px;
+    }
+
+    .hero p {
+      max-width: 600px;
+      color: #aaa;
+      line-height: 1.6;
+    }
+
+    .buttons {
+      margin-top: 30px;
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .btn {
+      text-decoration: none;
+      color: white;
+      background: #1b1b1b;
+      border: 1px solid #555;
+      padding: 13px 24px;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: white;
+      color: black;
+    }
+
+    section {
+      padding: 60px 20px;
+      text-align: center;
+      border-top: 1px solid #222;
+    }
+
+    section h2 {
+      font-size: 30px;
+      margin-bottom: 20px;
+    }
+
+    section p {
+      color: #aaa;
+      line-height: 1.7;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    .contact {
+      margin-top: 25px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      align-items: center;
+    }
+
+    footer {
+      padding: 25px;
+      text-align: center;
+      color: #777;
+      background: #050505;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>TSS SHADOW</h1>
+    <p>Team Shadow Squad</p>
+  </header>
+
+  <div class="hero">
+    <h2>TSS SHADOW</h2>
+    <h3>TEAM SHADOW SQUAD</h3>
+
+    <p>
+      Welcome to the official website of TSS Shadow.
+      We are a Free Fire esports team focused on gaming,
+      competition and teamwork.
+    </p>
+
+    <div class="buttons">
+      <a class="btn"
+         href="https://www.facebook.com/share/1cXCrGbQtA/"
+         target="_blank">
+        Facebook
+      </a>
+
+      <a class="btn"
+         href="https://wa.me/8801603219622"
+         target="_blank">
+        WhatsApp
+      </a>
+    </div>
+  </div>
+
+  <section>
+    <h2>About TSS Shadow</h2>
+    <p>
+      TSS Shadow stands for Team Shadow Squad.
+      This website is the online home of our esports identity,
+      team information and future achievements.
+    </p>
+  </section>
+
+  <section>
+    <h2>Free Fire Esports</h2>
+    <p>
+      TSS Shadow is built around Free Fire esports,
+      competitive gaming and team spirit.
+    </p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+
+    <div class="contact">
+      <a class="btn"
+         href="https://www.facebook.com/share/1cXCrGbQtA/"
+         target="_blank">
+        📘 Facebook
+      </a>
+
+      <a class="btn"
+         href="https://wa.me/8801603219622"
+         target="_blank">
+        📱 WhatsApp
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 TSS Shadow — Team Shadow Squad
+  </footer>
+
+</body>
+</html>
